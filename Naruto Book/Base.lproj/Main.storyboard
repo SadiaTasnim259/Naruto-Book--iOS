@@ -53,7 +53,7 @@
         <!--Second View Controller-->
         <scene sceneID="pfG-vc-ffU">
             <objects>
-                <viewController id="X5o-aN-e8R" customClass="SecondViewController" customModule="Naruto_Book" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="SecondViewController" id="X5o-aN-e8R" customClass="SecondViewController" customModule="Naruto_Book" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="D4F-0X-kIq">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
